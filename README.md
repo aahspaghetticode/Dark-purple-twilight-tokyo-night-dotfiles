@@ -4,7 +4,7 @@
 *install kvantum*
 
 ```sudo pacman -S kvantum```
-Open kvantum and install the "kvantum-theme" theme
+Open kvantum and install the "kvantum-theme" theme folder
 
 *install wallpaper*
 
