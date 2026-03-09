@@ -1,4 +1,5 @@
 # Dotfiles for my first rice, dark purple/twilight/tokyo night.
+![Preview](screenshot.png)
 # Install instructions (KDE&ARCH ONLY): 
 *install kvantum*
 
