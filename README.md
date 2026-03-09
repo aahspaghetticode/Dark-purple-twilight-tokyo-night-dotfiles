@@ -9,7 +9,7 @@ Open kvantum and install the "kvantum-theme" theme folder
 *install wallpaper*
 
 Navigate to the folder with wallpaper.png from this repo
-```plasma-apply-wallpaperimage ./wallpaper.png```
+```plasma-apply-wallpaperimage ./wallpaper.jpg```
 # Konsole tweaks
 System settings -> Window management -> Desktop effects:
 
