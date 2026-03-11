@@ -1,4 +1,4 @@
-# Dotfiles for my first rice, dark purple/twilight/tokyo night.
+# Dotfiles for my first rice, *Durple* (dark purple/twilight/tokyo night themed)
 ![Preview](screenshot.png)
 # Install instructions (KDE&ARCH ONLY): 
 *install kvantum*
