@@ -1,7 +1,10 @@
+echo "Installing starship..."
 sudo pacman -S zsh starship
+echo "Configuring Starship..."
 chsh -s $(which zsh)
 eval "$(starship init zsh)"
 echo 'eval "$(starship init zsh)"' >> ~/.zshrc
+echo "Making starship pretty..."
 cat > ~/.config/starship.toml << 'EOF'
 "$schema" = 'https://starship.rs/config-schema.json'
 
@@ -69,3 +72,5 @@ time_format = "%R" # Hour:Minute Format
 style = "bg:#1d2230"
 format = '[[ $time ](fg:#a0a9cb bg:#1d2230)]($style)'
 EOF
+echo "You may now restart Konsole. Press enter to exit..."
+read l
